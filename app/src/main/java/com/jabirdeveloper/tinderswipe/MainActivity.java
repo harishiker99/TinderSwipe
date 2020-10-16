@@ -112,17 +112,17 @@ public class MainActivity extends AppCompatActivity {
 
     private List<ItemModel> addList() {
         List<ItemModel> items = new ArrayList<>();
-        items.add(new ItemModel(R.drawable.sample1, "Markonah", "24", "Jember"));
-        items.add(new ItemModel(R.drawable.sample2, "Marpuah", "20", "Malang"));
-        items.add(new ItemModel(R.drawable.sample3, "Sukijah", "27", "Jonggol"));
-        items.add(new ItemModel(R.drawable.sample4, "Markobar", "19", "Bandung"));
-        items.add(new ItemModel(R.drawable.sample5, "Marmut", "25", "Hutan"));
+        items.add(new ItemModel(R.drawable.sample1, "Real Madrid C.F", "1902", "Madrid,Spain"));
+        items.add(new ItemModel(R.drawable.sample2, "Manchester United", "1878", "Manchester,United Kingdom"));
+        items.add(new ItemModel(R.drawable.sample3, "Chelsea F.C", "1905", "London,United Kingdom"));
+        items.add(new ItemModel(R.drawable.sample4, "F.C Barcelona", "1899", "Catalonia,Spain"));
+        items.add(new ItemModel(R.drawable.sample5, "Manchester City", "1880", "Manchester,United Kingdom"));
 
-        items.add(new ItemModel(R.drawable.sample1, "Markonah", "24", "Jember"));
-        items.add(new ItemModel(R.drawable.sample2, "Marpuah", "20", "Malang"));
-        items.add(new ItemModel(R.drawable.sample3, "Sukijah", "27", "Jonggol"));
-        items.add(new ItemModel(R.drawable.sample4, "Markobar", "19", "Bandung"));
-        items.add(new ItemModel(R.drawable.sample5, "Marmut", "25", "Hutan"));
+        items.add(new ItemModel(R.drawable.sample1, "Real Madrid C.F", "1902", "Madrid,Spain"));
+        items.add(new ItemModel(R.drawable.sample2, "Manchester United", "1878", "Manchester,United Kingdom"));
+        items.add(new ItemModel(R.drawable.sample3, "Chelsea F.C", "1905", "London,United Kingdom"));
+        items.add(new ItemModel(R.drawable.sample4, "F.C Barcelona", "1899", "Catalonia,Spain"));
+        items.add(new ItemModel(R.drawable.sample5, "Manchester City", "1880", "Manchester,United Kingdom"));
         return items;
     }
 }
